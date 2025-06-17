@@ -55,10 +55,15 @@ https://lookerstudio.google.com/s/hfrI8pmx_RM
 ## Menjalankan Sistem Machine Learning
 *Prototype* Sistem *Machine Learning* ini dibuat dengan *Streamlit* yang dapat diakses pada *link* berikut ini:
 ```
+<<<<<<< HEAD
 http://194.233.88.134:3005/
 ```
 
 
+=======
+```
+
+>>>>>>> 9bc07568c98c9290f4855001623e8dfa22ad5e72
 ## Conclusion
 - Komposisi siswa terdiri dari 66% Laki-laki dan 34% Perempuan dengan distribusi usia tertinggi pada rentang 17-23 tahun.
 - Tingkat kelulusan siswa (Graduation Rate) sebesar 60.85%% sedangkan tingkat ketidaklulusan (Dropout Rate) sebesar 39,14% dari 3.630 siswa
