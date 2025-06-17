@@ -168,4 +168,4 @@ with st.form("prediction_form"):
         if result == 1:
             st.success("🎉 Prediksi: Mahasiswa akan **Lulus (Graduate)**", icon="✅")
         else:
-            st.error("⚠️ Prediksi: Mahasiswa berisiko **Dropout**"
+            st.error("⚠️ Prediksi: Mahasiswa berisiko **Dropout**")
